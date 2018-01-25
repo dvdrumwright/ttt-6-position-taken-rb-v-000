@@ -5,6 +5,7 @@ end
 taken = nil
 if (board[index] ==  " " || board[index] == "" ||
   board[index] == nil)
+  taken = false
 
 
  
