@@ -2,8 +2,10 @@
 def position_taken?(board, index)
 end 
 
-board[index]==""
+def position_taken?(board, index)
+board[index] == ""
 "false"
+end 
 
 
 
