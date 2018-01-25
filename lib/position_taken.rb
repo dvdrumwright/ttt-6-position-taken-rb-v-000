@@ -4,9 +4,10 @@ def position_taken?(board, index)
 
 def position_taken(board)
   if board = [" ", " ", " ", " ", " ", " ", " ", " ", " "] == 0
-   
+   "false"
+ end 
+ end 
   
  
  
-  if int % 3 == 0 
-   "Fizz"
+
