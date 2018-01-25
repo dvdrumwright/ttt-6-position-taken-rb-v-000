@@ -4,7 +4,7 @@ end
 
 ! (board[index] ==  " " || board[index] == "" ||
   board[index] == nil) ?
-  
+   board[index] == nil) ?
  
  
   
